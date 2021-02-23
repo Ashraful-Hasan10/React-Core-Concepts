@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1>Ashraful Hasan</h1>
+        <h3>My Salary : {25*(33+20)+100000} </h3>
+        <p>My First React Paragraph</p>
         <a
           className="App-link"
           href="https://reactjs.org"
